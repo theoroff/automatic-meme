@@ -1,0 +1,17 @@
+{
+	id: "e7198e03-61e0-3e34-998a-3475597163b7"
+	type: "player"
+	player_name: "rubioso09"
+	ranks: {
+		e7198e03-61e0-3e34-998a-3475597163b7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "rubioso09"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

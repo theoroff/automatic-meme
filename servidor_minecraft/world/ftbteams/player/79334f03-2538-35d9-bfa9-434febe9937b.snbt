@@ -1,0 +1,17 @@
+{
+	id: "79334f03-2538-35d9-bfa9-434febe9937b"
+	type: "player"
+	player_name: "deimos1"
+	ranks: {
+		79334f03-2538-35d9-bfa9-434febe9937b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "deimos1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

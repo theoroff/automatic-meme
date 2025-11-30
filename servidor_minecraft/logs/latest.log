@@ -1,0 +1,331 @@
+[00:03:39] [Server thread/INFO]: No entity was found
+[00:04:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:04:03] [Server thread/INFO]: TELEport hrmes deimos1<--[HERE]
+[00:04:22] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:04:24] [Server thread/INFO]: deimos1 has made the advancement [Is this thing alive?]
+[00:04:33] [Server thread/INFO]: hrmes was slain by deimos1
+[00:04:36] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:04:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:04:52] [Server thread/INFO]: TELEport hrmes deimos1<--[HERE]
+[00:05:04] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:05:08] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 355, 42, -912, minecraft:overworld
+[00:06:57] [Server thread/INFO]: hrmes has made the advancement [Close Quarters]
+[00:07:51] [Server thread/INFO]: hrmes has made the advancement [World of illusion]
+[00:07:56] [Server thread/INFO]: deimos1 has made the advancement [World of illusion]
+[00:08:04] [Server thread/INFO]: hrmes has made the advancement [Voluntary Exile]
+[00:08:44] [Server thread/INFO]: deimos1 has made the advancement [The Secrets of Enchanting]
+[00:09:18] [Server thread/INFO]: hrmes has made the advancement [Diamonds!]
+[00:13:28] [Server thread/INFO]: hrmes tried to swim in lava
+[00:13:34] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:13:42] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:13:46] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 336, 32, -914, minecraft:overworld
+[00:14:05] [Server thread/INFO]: hrmes burned to death
+[00:14:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:14:10] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:14:16] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 345, 32, -911, minecraft:overworld
+[00:17:08] [Server thread/INFO]: hrmes was slain by Vindicator
+[00:17:08] [Netty Epoll Server IO #4/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:17:08] [Netty Epoll Server IO #4/ERROR]: Combo count: 2 is dual wielding: false
+[00:17:08] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
+[00:17:08] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
+[00:17:08] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 0 | client: 0
+[00:17:10] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:17:14] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:17:17] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 353, 26, -952, minecraft:overworld
+[00:17:43] [Server thread/INFO]: hrmes has made the advancement [Sneak 100]
+[00:18:19] [Server thread/INFO]: Villager class_1646['Rudolf'/27, l='ServerLevel[world]', x=-55.34, y=63.00, z=-22.67] died, message: 'Rudolf hit the ground too hard'
+[00:18:19] [Server thread/INFO]: Named entity class_1646['Rudolf'/27, l='ServerLevel[world]', x=-55.34, y=63.00, z=-22.67] died: Rudolf fell from a high place
+[00:21:51] [Server thread/INFO]: hrmes has made the advancement [Tech Reborn]
+[00:25:20] [Server thread/INFO]: deimos1 has made the advancement [False Water]
+[00:28:23] [Server thread/INFO]: hrmes has made the advancement [Tactical Fishing]
+[00:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[00:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[00:31:58] [Server thread/INFO]: deimos1 has made the advancement [Penteconter]
+[00:33:58] [Server thread/INFO]: No entity was found
+[00:34:09] [Server thread/INFO]: Villager class_1646['Benito'/12579, l='ServerLevel[world]', x=292.21, y=78.00, z=-1248.31] died, message: 'Benito was slain by Zombie'
+[00:34:09] [Server thread/INFO]: Named entity class_1646['Benito'/12579, l='ServerLevel[world]', x=292.21, y=78.00, z=-1248.31] died: Benito was slain by Zombie
+[00:34:24] [Server thread/INFO]: Teleported hrmes to 261.500000, 124.500000, -889.500000
+[00:34:49] [Server thread/INFO]: Villager class_1646['Willy'/12580, l='ServerLevel[world]', x=291.06, y=78.00, z=-1252.88] died, message: 'Willy was slain by Zombie'
+[00:34:49] [Server thread/INFO]: Named entity class_1646['Willy'/12580, l='ServerLevel[world]', x=291.06, y=78.00, z=-1252.88] died: Willy was slain by Zombie
+[00:34:54] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:37:58] [Server thread/INFO]: deimos1 has made the advancement [Novice Spellcaster]
+[00:41:03] [Server thread/INFO]: hrmes was slain by deimos1
+[00:41:07] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:41:09] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 259, 126, -886, minecraft:overworld
+[00:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[00:43:41] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.378608716103372
+[00:43:41] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.587247497289809
+[00:43:41] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.8150045031416084
+[00:43:43] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.32848286422881756
+[00:43:44] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.3246398550941194
+[00:43:44] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.51505618677038
+[00:43:44] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.7264128742176581
+[00:43:44] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.956615878509183
+[00:43:44] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.2993913700051962
+[00:43:45] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.3753571520519472
+[00:43:45] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.4837083451354829
+[00:43:45] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.30316103363543334
+[00:43:45] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.4761175632825143
+[00:43:45] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.6717604270206721
+[00:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:44:04] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.7976702712476254
+[00:44:04] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.8317844519667688
+[00:44:04] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.8624872138007049
+[00:44:04] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.8901196987192179
+[00:44:04] [Server thread/WARN]: Boat (vehicle of deimos1) moved wrongly! 0.9149889344871553
+[00:45:24] [Server thread/INFO]: hrmes has made the advancement [Suit Up]
+[00:46:23] [Server thread/INFO]: hrmes has made the advancement [Penteconter]
+[00:47:04] [Server thread/INFO]: deimos1 has made the advancement [Dye your backpack!]
+[00:47:19] [Server thread/INFO]: hrmes has made the advancement [Dye your backpack!]
+[00:48:24] [Server thread/INFO]: hrmes has made the advancement [Refined Iron]
+[00:50:04] [Server thread/INFO]: deimos1 has reached the goal [Choose your path]
+[00:53:09] [Server thread/INFO]: hrmes has made the advancement [When in Rome]
+[00:53:35] [Server thread/INFO]: deimos1 has made the advancement [When in Rome]
+[00:57:31] [Server thread/INFO]: deimos1 has made the advancement [Custom Backpacks]
+[00:58:38] [Server thread/INFO]: deimos1 has completed the challenge [Centennial]
+[00:58:41] [Server thread/INFO]: deimos1 has made the advancement [The Great Sage, Heaven's Equal]
+[00:58:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:59:32] [Server thread/INFO]: hrmes was slain by deimos1
+[00:59:36] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:59:45] [Server thread/INFO]: deimos1 was doomed to fall by Skeleton
+[00:59:48] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:59:51] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:00:17] [Server thread/INFO]: Teleported deimos1 to hrmes
+[01:00:22] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 204, -16, -1250, minecraft:overworld
+[01:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01:01:50] [Server thread/INFO]: hrmes was slain by Skeleton
+[01:01:52] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[01:02:16] [Server thread/INFO]: Incorrect argument for command
+[01:02:16] [Server thread/INFO]: ...ort hrmes deimos1/teleport hrmes deimos<--[HERE]
+[01:02:20] [Server thread/INFO]: Teleported hrmes to deimos1
+[01:02:30] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 206, 28, -1240, minecraft:overworld
+[01:02:57] [Server thread/INFO]: deimos1 has made the advancement [God, Take The Wheel]
+[01:04:15] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 199, 28, -1237, minecraft:overworld
+[01:04:33] [Server thread/INFO]: deimos1 was slain by Zombie
+[01:04:33] [Netty Epoll Server IO #2/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01:04:33] [Netty Epoll Server IO #2/ERROR]: Combo count: 7 is dual wielding: false
+[01:04:33] [Netty Epoll Server IO #2/ERROR]: Main-hand stack: 0 air
+[01:04:33] [Netty Epoll Server IO #2/ERROR]: Off-hand stack: 0 air
+[01:04:33] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 0 | client: 0
+[01:04:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:05:21] [Server thread/INFO]: Teleported deimos1 to hrmes
+[01:05:26] [Server thread/INFO]: deimos1 fell from a high place
+[01:05:26] [Server thread/INFO]: Did not backup data (grave data empty)
+[01:05:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:05:35] [Server thread/INFO]: Teleported deimos1 to hrmes
+[01:05:51] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 189, 28, -1232, minecraft:overworld
+[01:06:41] [Server thread/INFO]: deimos1 was doomed to fall by Skeleton
+[01:06:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:06:52] [Server thread/INFO]: Teleported deimos1 to hrmes
+[01:07:22] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 193, -15, -1237, minecraft:overworld
+[01:08:11] [Server thread/INFO]: Villager class_1646['Golden'/22208, l='ServerLevel[world]', x=267.75, y=73.00, z=-1293.57] died, message: 'Golden was slain by Zombie'
+[01:08:11] [Server thread/INFO]: Named entity class_1646['Golden'/22208, l='ServerLevel[world]', x=267.75, y=73.00, z=-1293.57] died: Golden was slain by Zombie
+[01:08:39] [Server thread/INFO]: hrmes has made the advancement [Quite the Renovation]
+[01:09:05] [Server thread/INFO]: hrmes was shot by Skeleton
+[01:09:07] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[01:09:12] [Server thread/INFO]: Teleported hrmes to deimos1
+[01:09:18] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 176, 0, -1264, minecraft:overworld
+[01:09:29] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@6df91fe1, suppressing error
+java.lang.NullPointerException: Cannot read field "spell_ids" because the return value of "net.spell_engine.internals.SpellContainerHelper.getEquipped(net.minecraft.item.ItemStack, net.minecraft.entity.player.PlayerEntity)" is null
+	at net.minecraft.item.ItemStack.handler$ill000$spellbladenext$postDamageEntitySpellblades(ItemStack.java:20124) ~[server-intermediary.jar:?]
+	at net.minecraft.item.ItemStack.postHit(ItemStack.java) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.player.PlayerEntity.attack(PlayerEntity.java:1331) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.attack(ServerPlayerEntity.java:1491) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler$1.attack(ServerPlayNetworkHandler.java:1610) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket$1.handle(PlayerInteractEntityC2SPacket.java:166) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket.handle(PlayerInteractEntityC2SPacket.java:66) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractEntity(ServerPlayNetworkHandler.java:1571) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket.apply(PlayerInteractEntityC2SPacket.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket.apply(PlayerInteractEntityC2SPacket.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkThreadUtils.method_11072(NetworkThreadUtils.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$method_18857$301(MinecraftServer.java) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$fkd000$modernfix$managedBlock(MinecraftServer.java:1823) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01:09:31] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@583c643a, suppressing error
+java.lang.NullPointerException: Cannot read field "spell_ids" because the return value of "net.spell_engine.internals.SpellContainerHelper.getEquipped(net.minecraft.item.ItemStack, net.minecraft.entity.player.PlayerEntity)" is null
+	at net.minecraft.item.ItemStack.handler$ill000$spellbladenext$postDamageEntitySpellblades(ItemStack.java:20124) ~[server-intermediary.jar:?]
+	at net.minecraft.item.ItemStack.postHit(ItemStack.java) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.player.PlayerEntity.attack(PlayerEntity.java:1331) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.attack(ServerPlayerEntity.java:1491) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler$1.attack(ServerPlayNetworkHandler.java:1610) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket$1.handle(PlayerInteractEntityC2SPacket.java:166) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket.handle(PlayerInteractEntityC2SPacket.java:66) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractEntity(ServerPlayNetworkHandler.java:1571) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket.apply(PlayerInteractEntityC2SPacket.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket.apply(PlayerInteractEntityC2SPacket.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkThreadUtils.method_11072(NetworkThreadUtils.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$method_18857$301(MinecraftServer.java) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$fkd000$modernfix$managedBlock(MinecraftServer.java:1823) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01:09:33] [Server thread/INFO]: deimos1 was shot by Skeleton
+[01:09:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:09:44] [Server thread/INFO]: Teleported deimos1 to hrmes
+[01:09:44] [Server thread/INFO]: deimos1 has made the advancement [Quite the Renovation]
+[01:09:57] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 178, -2, -1261, minecraft:overworld
+[01:14:27] [Server thread/INFO]: deimos1 has made the advancement [Glacial Profiling]
+[01:16:21] [Server thread/INFO]: deimos1 was slain by Skeleton
+[01:16:23] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:16:58] [Server thread/INFO]: Teleported deimos1 to hrmes
+[01:16:59] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 201, 28, -1232, minecraft:overworld
+[01:18:06] [Server thread/INFO]: hrmes fell from a high place
+[01:18:07] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[01:18:13] [Server thread/INFO]: Teleported hrmes to deimos1
+[01:18:40] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 222, 12, -1237, minecraft:overworld
+[01:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:28:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-70, y=25, z=-796}
+[01:28:45] [Server thread/INFO]: hrmes has made the advancement [Ice Bucket Challenge]
+[01:32:27] [Server thread/INFO]: deimos1 was blown up by Mutant Creeper
+[01:32:29] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:32:33] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 278, 127, -891, minecraft:overworld
+[01:37:49] [Server thread/INFO]: hrmes has made the advancement [Enchanter]
+[01:49:13] [Server thread/INFO]: hrmes has reached the goal [Choose your path]
+[01:52:01] [Server thread/INFO]: deimos1 has made the advancement [Stay dead]
+[01:55:53] [Server thread/INFO]: hrmes has made the advancement [Glacial Profiling]
+[02:02:30] [Server thread/INFO]: Teleported hrmes to deimos1
+[02:08:17] [Server thread/INFO]: deimos1 has made the advancement [Local Librarian]
+[02:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02:09:35] [Server thread/INFO]: hrmes has made the advancement [The Secrets of Enchanting]
+[02:13:07] [Server thread/INFO]: hrmes has made the advancement [(Optional) Fluid Tanks Upgrade]
+[02:13:07] [Server thread/INFO]: hrmes has made the advancement [Base for upgrades]
+[02:14:19] [Server thread/INFO]: hrmes has made the advancement [Iron Tier Upgrade]
+[02:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02:25:05] [Server thread/INFO]: Villager class_1646['Annabell'/26, l='ServerLevel[world]', x=-56.21, y=63.00, z=-25.08] died, message: 'Annabell hit the ground too hard'
+[02:25:05] [Server thread/INFO]: Named entity class_1646['Annabell'/26, l='ServerLevel[world]', x=-56.21, y=63.00, z=-25.08] died: Annabell fell from a high place
+[02:44:40] [Server thread/INFO]: hrmes was slain by deimos1
+[02:44:42] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[02:44:44] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 267, 125, -893, minecraft:overworld
+[03:04:13] [Server thread/INFO]: deimos1 has made the advancement [(Optional) Fluid Tanks Upgrade]
+[03:04:24] [Server thread/INFO]: deimos1 has made the advancement [Base for upgrades]
+[03:06:28] [Server thread/INFO]: deimos1 has made the advancement [Iron Tier Upgrade]
+[03:08:27] [Server thread/INFO]: hrmes was slain by deimos1
+[03:08:28] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[03:08:30] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 257, 126, -880, minecraft:overworld
+[03:20:15] [Server thread/INFO]: [Handshake] Sending channel query
+[03:20:15] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[03:20:15] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[03:20:15] [Server thread/INFO]: rubioso09[/127.66.133.201:43619] logged in with entity id 62556 at (4.5, 67.0, 42.5)
+[03:20:15] [Server thread/INFO]: Sending server config values to client
+[03:20:15] [Server thread/INFO]: Syncing config to rubioso09 (e7198e03-61e0-3e34-998a-3475597163b7)
+[03:20:15] [Server thread/INFO]: Loading config from file...
+[03:20:16] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:20:16] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:20:16] [Server thread/INFO]: rubioso09 joined the game
+[03:20:16] [Server thread/INFO]: Loading Configs for Sortilege
+[03:20:16] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:20:16] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:20:16] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:20:16] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:20:16] [Server thread/INFO]: Updating all forceload tickets for e7198e03-61e0-3e34-998a-3475597163b7
+[03:20:16] [Server thread/INFO]: PLAYER_JOIN
+[03:20:16] [Server thread/INFO]: add_player wand
+[03:20:16] [Server thread/INFO]: config sent
+[03:20:16] [Server thread/INFO]: rubioso09 has made the advancement [Mobs of Mythology]
+[03:20:18] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[03:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:20:20] [Netty Epoll Server IO #6/INFO]: Channel update: rubioso09 -> default
+[03:20:20] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player rubioso09. Claiming: GRAVE / Robbing: INVENTORY
+[03:20:23] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[03:21:40] [Server thread/INFO]: rubioso09 has made the advancement [Monster Hunter]
+[03:21:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:21:46] [Server thread/INFO]: te/teleport /tel<--[HERE]
+[03:22:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:22:08] [Server thread/INFO]: telport rubioso09 hrmes<--[HERE]
+[03:22:25] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[03:24:09] [Server thread/INFO]: rubioso09 has made the advancement [Suit Up]
+[03:25:49] [Server thread/INFO]: rubioso09 has made the advancement [Isn't It Iron Pick]
+[03:30:20] [Server thread/INFO]: rubioso09 has made the advancement [Stone Age]
+[03:30:48] [Server thread/INFO]: hrmes has made the advancement [Custom Backpacks]
+[03:32:15] [Server thread/INFO]: rubioso09 has made the advancement [Cobweb Entanglement]
+[03:34:07] [Server thread/INFO]: hrmes has made the advancement [The Beginning]
+[03:34:25] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=248, y=36, z=-1487}
+[03:35:59] [Server thread/INFO]: rubioso09 has made the advancement [Sweet Dreams]
+[03:37:18] [Server thread/INFO]: hrmes has made the advancement [Like Diamonds, But Less Shiny]
+[03:38:07] [Server thread/INFO]: Teleported deimos1 to rubioso09
+[03:38:20] [Server thread/INFO]: rubioso09 has made the advancement [Not Today, Thank You]
+[03:39:07] [Server thread/INFO]: rubioso09 was killed by magic whilst trying to escape Mutant Skeleton
+[03:39:08] [Server thread/INFO]: Teleported hrmes to deimos1
+[03:39:09] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[03:39:46] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at 387, 111, -858, minecraft:overworld
+[03:39:51] [Server thread/INFO]: deimos1 has made the advancement [Mine Cells]
+[03:39:53] [Server thread/INFO]: hrmes has made the advancement [Mine Cells]
+[03:39:55] [Server thread/INFO]: hrmes has made the advancement [Behind bars]
+[03:39:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[03:39:55] [Server thread/INFO]: deimos1 has made the advancement [Behind bars]
+[03:39:56] [Server thread/INFO]: rubioso09 has made the advancement [Mine Cells]
+[03:39:56] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[03:39:57] [Server thread/INFO]: rubioso09 has made the advancement [Behind bars]
+[03:39:57] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[03:40:05] [Server thread/INFO]: rubioso09 has made the advancement ['X' Marks the Spot]
+[03:40:29] [Server thread/INFO]: rubioso09 has made the advancement [Diamonds!]
+[03:40:33] [Server thread/INFO]: rubioso09 has made the advancement [Acquire Hardware]
+[03:41:23] [Server thread/INFO]: hrmes has completed the challenge [Centennial]
+[03:44:11] [Server thread/INFO]: rubioso09 has made the advancement [Disme A Dozen]
+[03:49:22] [Server thread/INFO]: rubioso09 was slain by Leaping Zombie
+[03:49:24] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[03:49:45] [Server thread/INFO]: deimos1 has made the advancement [A crafter that runs on cells...]
+[03:49:49] [Server thread/INFO]: Incorrect argument for command
+[03:49:49] [Server thread/INFO]: ... rubioso09 <--[HERE]
+[03:50:07] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[03:50:08] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[03:50:19] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -39, 24, -985, minecells:prison
+[03:50:50] [Server thread/INFO]: hrmes was slain by deimos1
+[03:50:52] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[03:51:03] [Server thread/INFO]: Teleported hrmes to deimos1
+[03:51:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[03:51:07] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -25, 24, -995, minecells:prison
+[03:51:56] [Server thread/INFO]: hrmes has made the advancement [A crafter that runs on cells...]
+[03:56:11] [Server thread/INFO]: rubioso09 has made the advancement [A crafter that runs on cells...]
+[03:57:45] [Server thread/INFO]: rubioso09 has made the advancement [Archer´s Paths]
+[03:58:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[04:00:05] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[04:02:54] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[04:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04:05:12] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[04:05:37] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[04:07:01] [Server thread/INFO]: rubioso09 has reached the goal [Choose your path]
+[04:08:47] [Server thread/INFO]: rubioso09 has made the advancement [Cover Me with Diamonds]
+[04:12:51] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[04:14:38] [Server thread/INFO]: deimos1 has made the advancement [Love the serenity...]
+[04:14:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[04:14:38] [Server thread/INFO]: hrmes has made the advancement [Love the serenity...]
+[04:14:39] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[04:15:22] [Server thread/INFO]: rubioso09 has made the advancement [Close Quarters]
+[04:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16077ms or 321 ticks behind
+[04:19:22] [Server thread/INFO]: rubioso09 has made the advancement [Love the serenity...]
+[04:19:22] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[04:19:22] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[04:20:53] [Server thread/INFO]: deimos1 fell from a high place
+[04:20:55] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[04:21:29] [Server thread/INFO]: rubioso09 lost connection: Disconnected
+[04:21:29] [Server thread/INFO]: rubioso09 left the game
+[04:21:29] [Server thread/INFO]: remove player wand
+[04:21:29] [Server thread/INFO]: Updating all forceload tickets for e7198e03-61e0-3e34-998a-3475597163b7
+[04:21:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:21:43] [Server thread/INFO]: /tp deimos1 hrmes<--[HERE]
+[04:21:57] [Server thread/INFO]: Teleported deimos1 to hrmes
+[04:21:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
