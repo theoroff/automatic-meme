@@ -1,0 +1,568 @@
+[00:00:23] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:23] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:00:53] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:02:15] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19863, l='ServerLevel[world]', x=-165.00, y=31.00, z=93.00] as it would cause deadlock
+[00:02:15] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19865, l='ServerLevel[world]', x=-165.00, y=31.00, z=93.00] as it would cause deadlock
+[00:02:34] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20006, l='ServerLevel[world]', x=-181.00, y=31.00, z=96.90] as it would cause deadlock
+[00:02:34] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20009, l='ServerLevel[world]', x=-181.00, y=31.00, z=96.90] as it would cause deadlock
+[00:03:13] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20293, l='ServerLevel[world]', x=-149.00, y=31.00, z=168.00] as it would cause deadlock
+[00:03:13] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20296, l='ServerLevel[world]', x=-149.00, y=31.00, z=168.00] as it would cause deadlock
+[00:03:13] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20300, l='ServerLevel[world]', x=-386.00, y=66.00, z=171.00] as it would cause deadlock
+[00:03:13] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20302, l='ServerLevel[world]', x=-386.00, y=66.00, z=171.00] as it would cause deadlock
+[00:03:31] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20369, l='ServerLevel[world]', x=-287.10, y=65.00, z=188.00] as it would cause deadlock
+[00:03:31] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20371, l='ServerLevel[world]', x=-287.10, y=65.00, z=188.00] as it would cause deadlock
+[00:03:46] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20521, l='ServerLevel[world]', x=-161.00, y=31.00, z=227.00] as it would cause deadlock
+[00:03:46] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20524, l='ServerLevel[world]', x=-161.00, y=31.00, z=227.00] as it would cause deadlock
+[00:04:03] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20708, l='ServerLevel[world]', x=-386.00, y=31.00, z=262.00] as it would cause deadlock
+[00:04:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20711, l='ServerLevel[world]', x=-386.00, y=31.00, z=262.00] as it would cause deadlock
+[00:04:11] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20782, l='ServerLevel[world]', x=-469.00, y=100.00, z=266.00] as it would cause deadlock
+[00:04:11] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20784, l='ServerLevel[world]', x=-469.00, y=100.00, z=266.00] as it would cause deadlock
+[00:07:23] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:07:26] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:07:33] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:07:33] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.07.33.dat
+[00:07:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:07:45] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:07:45] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.07.45.dat
+[00:07:47] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:07:48] [Server thread/INFO]: Teleported hrmes to rubioso09
+[00:08:06] [Server thread/INFO]: No return portal found
+[00:08:06] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:08:06] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:08:09] [Server thread/INFO]: No return portal found
+[00:08:09] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:08:11] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:08:55] [Server thread/INFO]: Set hrmes's game mode to Spectator Mode
+[00:09:49] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[00:10:01] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -275, 21, 98, minecraft:the_nether
+[00:10:13] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:10:17] [Server thread/INFO]: deimos1 hit the ground too hard
+[00:10:17] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:10:19] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:10:23] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:10:23] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:10:25] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -267, 17, 88, minecraft:the_nether
+[00:10:58] [Server thread/INFO]: Set hrmes's game mode to Survival Mode
+[00:11:00] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -272, 17, 92, minecraft:the_nether
+[00:11:03] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:11:03] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.11.03.dat
+[00:11:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:11:20] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:11:23] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:11:23] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:11:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:11:25] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -260, 17, 90, minecraft:the_nether
+[00:11:40] [Server thread/INFO]: Teleported hrmes to rubioso09
+[00:11:40] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:11:40] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:11:42] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:11:42] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.11.42.dat
+[00:11:44] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -258, 17, 95, minecraft:the_nether
+[00:11:45] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:12:02] [Server thread/INFO]: No return portal found
+[00:12:02] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:12:02] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:12:10] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[00:12:14] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:12:14] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.12.14.dat
+[00:12:15] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -269, 18, 96, minecraft:the_nether
+[00:12:16] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:12:30] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:12:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:12:32] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:12:32] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.12.32.dat
+[00:12:38] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -275, 20, 78, minecraft:the_nether
+[00:12:45] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:13:02] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[00:13:03] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:13:03] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:13:07] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -270, 21, 77, minecraft:the_nether
+[00:13:08] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:13:09] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:13:09] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.13.09.dat
+[00:13:15] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:13:20] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:13:20] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.13.20.dat
+[00:13:21] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:13:49] [Server thread/INFO]: No return portal found
+[00:13:49] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:13:49] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:13:54] [Server thread/INFO]: No return portal found
+[00:13:54] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:14:21] [Server thread/INFO]: Incorrect argument for command
+[00:14:21] [Server thread/INFO]: ...p deimos1 hrmes/gamemode spectator hrmes<--[HERE]
+[00:14:29] [Server thread/INFO]: Set hrmes's game mode to Spectator Mode
+[00:15:01] [Server thread/INFO]: deimos1 was doomed to fall by Creeper
+[00:15:02] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:15:06] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:15:06] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:15:07] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:15:17] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -265, 20, 98, minecraft:the_nether
+[00:15:20] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:15:35] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[00:15:40] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -270, 21, 78, minecraft:the_nether
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:43] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:15:58] [Server thread/INFO]: Teleported rubioso09 to hrmes
+[00:16:13] [Server thread/INFO]: Teleported deimos1 to hrmes
+[00:16:51] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/29094, l='ServerLevel[world]', x=-277.00, y=31.00, z=321.00] as it would cause deadlock
+[00:16:51] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/29097, l='ServerLevel[world]', x=-277.00, y=31.00, z=321.00] as it would cause deadlock
+[00:16:51] [Server thread/INFO]: Set hrmes's game mode to Survival Mode
+[00:16:53] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -274, 19, 80, minecraft:the_nether
+[00:17:02] [Server thread/INFO]: Teleported hrmes to deimos1
+[00:18:12] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:19:26] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=-828, minY=22, minZ=404, maxX=-660, maxY=96, maxZ=572}
+[00:19:28] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:19:28] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.19.28.dat
+[00:19:29] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:20:04] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:20:04] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:20:07] [Server thread/INFO]: Teleported deimos1 to rubioso09
+[00:20:20] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:20:21] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:20:32] [Server thread/INFO]: Teleported deimos1 to rubioso09
+[00:20:32] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:20:57] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:20:59] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:21:13] [Server thread/INFO]: Teleported deimos1 to rubioso09
+[00:21:13] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:21:31] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:21:33] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:21:38] [Server thread/INFO]: Teleported deimos1 to rubioso09
+[00:21:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:22:10] [Server thread/INFO]: rubioso09 was slain by Zombified Piglin
+[00:22:10] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.22.10.dat
+[00:22:14] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:22:35] [Server thread/INFO]: Teleported rubioso09 to deimos1
+[00:22:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:22:44] [Server thread/INFO]: Made deimos1 a server operator
+[00:22:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:22:58] [Server thread/INFO]: Made rubioso09 a server operator
+[00:22:59] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:23:00] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -330, 36, 117, minecraft:the_nether
+[00:23:04] [Server thread/INFO]: Made hrmes a server operator
+[00:23:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:23:05] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -276, 21, 101, minecraft:the_nether
+[00:23:33] [Server thread/INFO]: [hrmes: Set own game mode to Spectator Mode]
+[00:23:48] [Server thread/INFO]: rubioso09 burned to death
+[00:23:48] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.23.48.dat
+[00:23:51] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:23:59] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:23:59] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.23.59.dat
+[00:24:00] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to hrmes]
+[00:24:00] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:24:00] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:24:01] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:24:07] [Server thread/INFO]: rubioso09 tried to swim in lava
+[00:24:07] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:24:09] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:24:20] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to hrmes]
+[00:24:20] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:24:24] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -315, 33, 102, minecraft:the_nether
+[00:24:31] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:24:31] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:24:31] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:24:33] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -284, 24, 105, minecraft:the_nether
+[00:24:50] [Server thread/INFO]: [hrmes: Set own game mode to Survival Mode]
+[00:25:09] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:25:11] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:25:14] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:25:14] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:25:14] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:25:22] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -261, 22, 102, minecraft:the_nether
+[00:25:25] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:25:25] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.25.25.dat
+[00:25:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:25:34] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:25:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:25:38] [Server thread/INFO]: [deimos1: Teleported deimos1 to rubioso09]
+[00:25:38] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:25:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:25:41] [Server thread/INFO]: [hrmes: Teleported hrmes to rubioso09]
+[00:25:41] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:25:50] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -264, 20, 79, minecraft:the_nether
+[00:25:51] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -276, 20, 80, minecraft:the_nether
+[00:26:03] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:26:03] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.26.03.dat
+[00:26:05] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:26:09] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:26:10] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:26:12] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to deimos1]
+[00:26:12] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:26:13] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:26:13] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:26:19] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -260, 17, 92, minecraft:the_nether
+[00:26:19] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -261, 16, 84, minecraft:the_nether
+[00:26:37] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:26:37] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.26.37.dat
+[00:26:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:26:45] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:26:45] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:26:47] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:26:47] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:26:49] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:26:55] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:26:55] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:26:55] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:26:55] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:26:57] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:27:12] [Server thread/INFO]: [deimos1: Teleported deimos1 to rubioso09]
+[00:27:12] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:27:16] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -266, 17, 92, minecraft:the_nether
+[00:27:22] [Server thread/INFO]: hrmes was slain by deimos1
+[00:27:24] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:27:25] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:27:25] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:27:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:27:37] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -259, 16, 100, minecraft:the_nether
+[00:27:48] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:27:48] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.27.48.dat
+[00:27:49] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:27:52] [Server thread/INFO]: [hrmes: Teleported hrmes to rubioso09]
+[00:27:55] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:27:55] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:27:55] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:27:59] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -267, 21, 101, minecraft:the_nether
+[00:28:18] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:28:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:28:23] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:28:23] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:28:26] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -261, 17, 82, minecraft:the_nether
+[00:28:47] [Server thread/INFO]: rubioso09 was blown up by Nether Gauntlet
+[00:28:47] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.28.47.dat
+[00:28:49] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:28:51] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to deimos1]
+[00:28:51] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:29:01] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -269, 19, 81, minecraft:the_nether
+[00:29:11] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:29:11] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.29.11.dat
+[00:29:12] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:29:30] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:29:30] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:29:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:29:31] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:29:31] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:29:33] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:29:40] [Server thread/INFO]: [deimos1: Teleported deimos1 to rubioso09]
+[00:29:40] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:29:43] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:29:44] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -256, 16, 89, minecraft:the_nether
+[00:29:45] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:29:47] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:29:47] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:29:47] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:29:53] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -253, 22, 86, minecraft:the_nether
+[00:29:59] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:29:59] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.29.59.dat
+[00:30:01] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:30:45] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to deimos1]
+[00:30:45] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:30:56] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -280, 23, 89, minecraft:the_nether
+[00:30:57] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:30:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:31:00] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:31:00] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:31:00] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:31:04] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -261, 23, 74, minecraft:the_nether
+[00:31:13] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:31:13] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.31.13.dat
+[00:31:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:31:15] [Server thread/INFO]: rubioso09 was slain by deimos1
+[00:31:15] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.31.15.dat
+[00:31:17] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:31:22] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to hrmes]
+[00:31:22] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:31:22] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:31:27] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:31:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:31:29] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -258, 19, 98, minecraft:the_nether
+[00:31:30] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -265, 17, 87, minecraft:the_nether
+[00:31:30] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:31:31] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:31:32] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:31:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:31:34] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -262, 18, 98, minecraft:the_nether
+[00:31:39] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:31:39] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.31.39.dat
+[00:31:39] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:31:39] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.31.39.dat
+[00:31:40] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:31:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:31:46] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:31:46] [Netty Epoll Server IO #2/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:31:46] [Netty Epoll Server IO #2/ERROR]: Combo count: 6 is dual wielding: false
+[00:31:46] [Netty Epoll Server IO #2/ERROR]: Main-hand stack: 0 air
+[00:31:46] [Netty Epoll Server IO #2/ERROR]: Off-hand stack: 0 air
+[00:31:46] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 0 | client: 0
+[00:31:48] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to hrmes]
+[00:31:48] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:31:49] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:31:49] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:31:51] [Server thread/INFO]: [hrmes: Teleported hrmes to rubioso09]
+[00:32:03] [Server thread/INFO]: No return portal found
+[00:32:04] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:32:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:32:08] [Server thread/INFO]: No return portal found
+[00:32:08] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:32:11] [Server thread/INFO]: [rubioso09: Set own game mode to Creative Mode]
+[00:32:13] [Server thread/INFO]: [deimos1: Set own game mode to Spectator Mode]
+[00:32:18] [Server thread/INFO]: [hrmes: Set own game mode to Spectator Mode]
+[00:32:37] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -256, 21, 99, minecraft:the_nether
+[00:32:40] [Server thread/INFO]: [hrmes: Set own game mode to Survival Mode]
+[00:32:41] [Server thread/INFO]: [rubioso09: Set own game mode to Survival Mode]
+[00:32:54] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -248, 25, 91, minecraft:the_nether
+[00:32:56] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:32:56] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:33:31] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:33:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:33:35] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:33:35] [Worker-Main-3/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:33:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:33:40] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[00:33:43] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -256, 18, 81, minecraft:the_nether
+[00:33:44] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -256, 20, 96, minecraft:the_nether
+[00:33:51] [Server thread/INFO]: rubioso09 was slain by Nether Gauntlet
+[00:33:51] [Server thread/INFO]: Created new backpack backup file for rubioso09 with unique ID travelersbackpack.standard_14.12.2025-00.33.51.dat
+[00:33:52] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:33:58] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to deimos1]
+[00:33:58] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:33:58] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:34:08] [Server thread/INFO]: rubioso09 claimed a grave belonging to rubioso09 at -246, 24, 88, minecraft:the_nether
+[00:34:19] [Server thread/INFO]: deimos1 was slain by Nether Gauntlet
+[00:34:19] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.34.19.dat
+[00:34:20] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:34:30] [Server thread/INFO]: hrmes was slain by Nether Gauntlet
+[00:34:31] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:34:31] [Worker-Main-1/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[00:34:31] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:34:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:34:33] [Server thread/INFO]: rubioso09 has made the advancement [Through the Gauntlet]
+[00:34:33] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[00:34:33] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[00:34:33] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[00:34:33] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:34:33] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:34:35] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at -273, 17, 82, minecraft:the_nether
+[00:34:43] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at -263, 15, 83, minecraft:the_nether
+[00:34:58] [Server thread/INFO]: hrmes has made the advancement [Cutlass? Why would I do that?]
+[00:35:08] [Server thread/INFO]: rubioso09 has made the advancement [Cutlass? Why would I do that?]
+[00:35:47] [Server thread/INFO]: [deimos1: Set own game mode to Spectator Mode]
+[00:36:01] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=-828, minY=22, minZ=404, maxX=-660, maxY=96, maxZ=572}
+[00:36:03] [Server thread/INFO]: [hrmes: Set own game mode to Spectator Mode]
+[00:36:25] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/45300, l='ServerLevel[world]', x=-449.00, y=31.00, z=437.00] as it would cause deadlock
+[00:36:25] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/45302, l='ServerLevel[world]', x=-449.00, y=31.00, z=437.00] as it would cause deadlock
+[00:36:28] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/45332, l='ServerLevel[world]', x=-93.00, y=31.00, z=376.00] as it would cause deadlock
+[00:36:28] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/45334, l='ServerLevel[world]', x=-93.00, y=31.00, z=376.00] as it would cause deadlock
+[00:36:40] [Server thread/INFO]: [rubioso09: Set own game mode to Spectator Mode]
+[00:37:30] [Server thread/INFO]: [hrmes: Set own game mode to Survival Mode]
+[00:37:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:37:39] [Server thread/INFO]: deimos1 lost connection: Disconnected
+[00:37:39] [Server thread/INFO]: deimos1 left the game
+[00:37:39] [Server thread/INFO]: remove player wand
+[00:37:39] [Server thread/INFO]: Updating all forceload tickets for 79334f03-2538-35d9-bfa9-434febe9937b
+[00:37:42] [Server thread/INFO]: [Handshake] Sending channel query
+[00:37:42] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[00:37:42] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[00:37:43] [Server thread/INFO]: deimos1[/127.161.253.208:55659] logged in with entity id 46277 at (-358.09806128975515, 45.962937777054535, 175.6902468497804)
+[00:37:43] [Server thread/INFO]: Sending server config values to client
+[00:37:43] [Server thread/INFO]: Syncing config to deimos1 (79334f03-2538-35d9-bfa9-434febe9937b)
+[00:37:43] [Server thread/INFO]: Loading config from file...
+[00:37:43] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:37:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:37:43] [Server thread/INFO]: deimos1 joined the game
+[00:37:43] [Server thread/INFO]: Loading Configs for Sortilege
+[00:37:43] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:37:43] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:37:43] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:37:43] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:37:43] [Server thread/INFO]: PLAYER_JOIN
+[00:37:43] [Server thread/INFO]: add_player wand
+[00:37:43] [Server thread/INFO]: config sent
+[00:37:43] [Server thread/INFO]: Updating all forceload tickets for 79334f03-2538-35d9-bfa9-434febe9937b
+[00:37:45] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[00:37:45] [Netty Epoll Server IO #3/INFO]: Channel update: deimos1 -> default
+[00:37:45] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player deimos1. Claiming: GRAVE / Robbing: INVENTORY
+[00:37:47] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:37:48] [Server thread/INFO]: [rubioso09: Teleported rubioso09 to hrmes]
+[00:37:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of rubioso09 accepted server config.
+[00:37:59] [Server thread/INFO]: [rubioso09: Set own game mode to Survival Mode]
+[00:38:17] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:38:18] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:38:31] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[00:40:55] [Server thread/INFO]: rubioso09 lost connection: Disconnected
+[00:40:55] [Server thread/INFO]: rubioso09 left the game
+[00:40:55] [Server thread/INFO]: remove player wand
+[00:40:55] [Server thread/INFO]: Updating all forceload tickets for e7198e03-61e0-3e34-998a-3475597163b7
+[00:42:15] [Server thread/INFO]: [deimos1: Set own game mode to Spectator Mode]
+[00:43:12] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=978, y=94, z=-1245}
+[00:43:12] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=978, y=94, z=-1245}
+[00:43:24] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[00:43:24] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[00:43:24] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[00:43:31] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1205, y=259, z=-1152}
+[00:43:31] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1205, y=259, z=-1152}
+[00:44:06] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=640, y=-36, z=-1100}
+[00:44:42] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[00:45:01] [Server thread/INFO]: hrmes has made the advancement [Keeper of Souls]
+[00:46:48] [Server thread/INFO]: [deimos1: Set own game mode to Spectator Mode]
+[00:47:14] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=248, y=36, z=-1487}
+[00:47:14] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=247, y=36, z=-1489}
+[00:47:23] [Server thread/INFO]: deimos1 has made the advancement [Into Darkness]
+[00:48:50] [Server thread/INFO]: hrmes has made the advancement [Chest Slayer]
+[00:50:14] [Server thread/INFO]: hrmes has completed the challenge [It Spreads]
+[00:50:14] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[00:51:21] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[00:51:23] [Server thread/INFO]: deimos1 has made the advancement [Sneak 100]
+[00:53:10] [Server thread/INFO]: deimos1 was slain by Void Blossom
+[00:53:10] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.53.10.dat
+[00:53:11] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:53:28] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:53:37] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 280, -59, -1007, minecraft:overworld
+[00:54:50] [Server thread/INFO]: deimos1 was slain by Void Blossom
+[00:54:50] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.54.50.dat
+[00:54:50] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:54:50] [Netty Epoll Server IO #3/ERROR]: Combo count: 2 is dual wielding: false
+[00:54:50] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[00:54:50] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[00:54:50] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[00:54:52] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:55:05] [Server thread/INFO]: [deimos1: Set own game mode to Creative Mode]
+[00:55:19] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:55:40] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[00:55:40] [Server thread/INFO]: hrmes was pummeled by Void Blossom
+[00:55:41] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 294, -58, -1003, minecraft:overworld
+[00:55:42] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:55:45] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:55:53] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 288, -53, -985, minecraft:overworld
+[00:56:04] [Server thread/INFO]: deimos1 was slain by Void Blossom
+[00:56:04] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.56.04.dat
+[00:56:06] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:56:18] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:56:21] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 278, -57, -1024, minecraft:overworld
+[00:56:42] [Server thread/INFO]: deimos1 was killed trying to hurt Void Blossom
+[00:56:42] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.56.42.dat
+[00:56:44] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:57:28] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:57:36] [Server thread/INFO]: hrmes was slain by Void Blossom
+[00:57:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:57:38] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 294, -59, -1005, minecraft:overworld
+[00:57:39] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:57:43] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 293, -59, -1013, minecraft:overworld
+[00:58:47] [Server thread/INFO]: hrmes was killed by magic whilst trying to escape Void Blossom
+[00:58:48] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:58:50] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:58:55] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 283, -58, -999, minecraft:overworld
+[00:58:57] [Server thread/INFO]: deimos1 was slain by Void Blossom
+[00:58:57] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.58.57.dat
+[00:58:58] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:59:03] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:59:09] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 304, -59, -992, minecraft:overworld
+[00:59:20] [Server thread/INFO]: hrmes tried to swim in lava to escape Void Blossom
+[00:59:21] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[00:59:22] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[00:59:27] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 286, -59, -1008, minecraft:overworld
+[00:59:38] [Server thread/INFO]: deimos1 was pummeled by Void Blossom
+[00:59:38] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-00.59.38.dat
+[00:59:39] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[00:59:48] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[00:59:58] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 305, -59, -992, minecraft:overworld
+[01:00:24] [Server thread/INFO]: deimos1 was slain by Void Blossom
+[01:00:24] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-01.00.24.dat
+[01:00:25] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:00:32] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[01:00:34] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 277, -58, -997, minecraft:overworld
+[01:00:41] [Server thread/INFO]: deimos1 was killed trying to hurt Void Blossom
+[01:00:41] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-01.00.41.dat
+[01:00:42] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:00:49] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[01:00:51] [Server thread/INFO]: hrmes was slain by Void Blossom
+[01:00:52] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[01:00:54] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[01:00:56] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 293, -59, -1007, minecraft:overworld
+[01:01:04] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 304, -54, -1021, minecraft:overworld
+[01:01:07] [Server thread/INFO]: deimos1 was killed trying to hurt Void Blossom
+[01:01:07] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-01.01.07.dat
+[01:01:09] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:01:13] [Server thread/INFO]: hrmes has made the advancement [Extreme Weeding]
+[01:01:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[01:01:13] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[01:01:21] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[01:01:28] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 293, -59, -1007, minecraft:overworld
+[01:02:26] [Server thread/INFO]: hrmes was obliterated by a sonically-charged shriek
+[01:02:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[01:02:28] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[01:02:30] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 279, -58, -1006, minecraft:overworld
+[01:02:31] [Server thread/INFO]: deimos1 has completed the challenge [Phantom Thief]
+[01:03:15] [Server thread/INFO]: deimos1 was slain by Warden
+[01:03:15] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-01.03.15.dat
+[01:03:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:03:33] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[01:03:38] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 272, -59, -997, minecraft:overworld
+[01:03:47] [Server thread/INFO]: hrmes was killed by magic whilst trying to escape Warden
+[01:03:49] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of hrmes accepted server config.
+[01:03:49] [Server thread/INFO]: deimos1 was slain by Warden
+[01:03:49] [Server thread/INFO]: Created new backpack backup file for deimos1 with unique ID travelersbackpack.standard_14.12.2025-01.03.49.dat
+[01:03:50] [Server thread/INFO]: [hrmes: Teleported hrmes to deimos1]
+[01:03:51] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[01:03:52] [Server thread/INFO]: hrmes claimed a grave belonging to hrmes at 291, -59, -1006, minecraft:overworld
+[01:03:54] [Server thread/INFO]: hrmes has completed the challenge [Phantom Thief]
+[01:04:01] [Server thread/INFO]: [deimos1: Teleported deimos1 to hrmes]
+[01:04:04] [Server thread/INFO]: deimos1 claimed a grave belonging to deimos1 at 293, -59, -1002, minecraft:overworld
+[01:04:21] [Server thread/INFO]: deimos1 lost connection: Disconnected
+[01:04:21] [Server thread/INFO]: deimos1 left the game
+[01:04:21] [Server thread/INFO]: remove player wand
+[01:04:21] [Server thread/INFO]: Updating all forceload tickets for 79334f03-2538-35d9-bfa9-434febe9937b
+[01:04:29] [Server thread/INFO]: hrmes lost connection: Disconnected
+[01:04:29] [Server thread/INFO]: hrmes left the game
+[01:04:29] [Server thread/INFO]: remove player wand
+[01:04:29] [Server thread/INFO]: Updating all forceload tickets for cd9af84c-6e4a-36ba-82bc-a723e04df073
+[03:07:24] [Server thread/INFO]: [Handshake] Sending channel query
+[03:07:25] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[03:07:25] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[03:07:25] [Server thread/INFO]: deimos1[/127.161.253.208:34765] logged in with entity id 63097 at (295.62034215428685, -59.0, -1002.2716537637968)
+[03:07:25] [Server thread/INFO]: Sending server config values to client
+[03:07:25] [Server thread/INFO]: Syncing config to deimos1 (79334f03-2538-35d9-bfa9-434febe9937b)
+[03:07:25] [Server thread/INFO]: Loading config from file...
+[03:07:25] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:07:25] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:07:25] [Server thread/INFO]: deimos1 joined the game
+[03:07:25] [Server thread/INFO]: Loading Configs for Sortilege
+[03:07:25] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:07:25] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:07:25] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:07:25] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:07:25] [Server thread/INFO]: PLAYER_JOIN
+[03:07:25] [Server thread/INFO]: add_player wand
+[03:07:25] [Server thread/INFO]: config sent
+[03:07:25] [Server thread/INFO]: Updating all forceload tickets for 79334f03-2538-35d9-bfa9-434febe9937b
+[03:07:30] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[03:07:36] [Netty Epoll Server IO #1/INFO]: Channel update: deimos1 -> default
+[03:07:36] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player deimos1. Claiming: GRAVE / Robbing: INVENTORY
+[03:07:52] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[03:08:32] [Server thread/INFO]: [deimos1: Set own game mode to Spectator Mode]
+[03:09:16] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[03:10:38] [Server thread/INFO]: [deimos1: Set own game mode to Creative Mode]
+[03:13:13] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[03:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18957ms or 379 ticks behind
+[03:15:58] [Server thread/INFO]: deimos1 has reached the goal [Dinner's Served!]
+[03:20:07] [Worker-Main-177/INFO]: [betternether] BBox:class_3341{minX=213, minY=22, minZ=-875, maxX=411, maxY=96, maxZ=-677}
+[03:20:08] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[03:22:56] [Server thread/INFO]: [deimos1: Set own game mode to Creative Mode]
+[03:24:50] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of deimos1 accepted server config.
+[03:24:58] [Server thread/INFO]: [deimos1: Set own game mode to Survival Mode]
+[03:25:22] [Server thread/INFO]: deimos1 lost connection: Disconnected
+[03:25:22] [Server thread/INFO]: deimos1 left the game
+[03:25:22] [Server thread/INFO]: remove player wand
+[03:25:22] [Server thread/INFO]: Updating all forceload tickets for 79334f03-2538-35d9-bfa9-434febe9937b
